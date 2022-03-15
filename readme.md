@@ -1,1 +1,3 @@
-# this is my portfolio
+# deployed link
+
+https://begimaikozhonova.github.io/
